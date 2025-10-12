@@ -7,7 +7,7 @@
 
 
 
-## 📬 Connect with me:
+## Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/douae-rohand-72051b345" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
@@ -57,7 +57,7 @@
 </p>
 
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=douae-rohand&theme=dracula" alt="Activity Graph" />
