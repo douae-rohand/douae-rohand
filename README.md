@@ -1,13 +1,17 @@
 <h1 align="left">Hi, I'm Douae Rohand</h1>
-<h4 align="center"> I’m currently a computer science engineering student</h4>
+<h4 align="left"> I’m currently a computer science engineering student</h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=douae-rohand&label=Profile%20views&color=0e75b6&style=flat" alt="douae-rohand" />
+## Profile Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=douae-rohand&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/douae-rohand?label=Followers&color=ffb6c1&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/following/douae-rohand?label=Following&color=ffc0cb&style=for-the-badge" alt="Following" />
 </p>
 
 
-
 ## Connect with me:
+
 <p align="left">
     <a href="https://www.linkedin.com/in/douae-rohand-72051b345" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
