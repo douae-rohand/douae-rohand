@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Douae Rohand</h1>
-<h3 align="center"> I’m currently a computer science engineering student</h3>
+<h4 align="center"> I’m currently a computer science engineering student</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douae-rohand&label=Profile%20views&color=0e75b6&style=flat" alt="douae-rohand" />
 </p>
 
-- 🌱 I’m currently learning **DevOps, Docker, QA Automation**   
--  How to reach me: **douaerohand18@gmail.com**
-
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="in/douae-rohand-72051b345" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
-  </a>
+    <a href="in/douae-rohand-72051b345" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
+    </a>
+    <a href="mailto:douaerohand18@gmail.com" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="40" />
+    </a>
 </p>
 
 ---
@@ -36,26 +36,24 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douae-rohand&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=douae-rohand&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douae-rohand&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douae-rohand&theme=dracula" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douae-rohand&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douae-rohand&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douae-rohand&layout=compact&theme=dracula" alt="Top languages" />
 </p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=douae-rohand&theme=dracula&no-frame=true&margin-w=15" />
+</p>
+
+---
