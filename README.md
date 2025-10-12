@@ -7,7 +7,7 @@
 
 ---
 
-### Connect with me:
+## Connect with me:
 <p align="left">
     <a href="in/douae-rohand-72051b345" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
@@ -19,7 +19,7 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=douae-rohand&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
@@ -51,7 +51,7 @@
 
 ---
 
-### GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=douae-rohand&theme=dracula&no-frame=true&margin-w=15" />
 </p>
