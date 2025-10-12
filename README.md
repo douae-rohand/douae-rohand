@@ -4,46 +4,45 @@
 ## Profile Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=douae-rohand&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-0-pink?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/douae-rohand?label=Followers&color=ffb6c1&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/following/douae-rohand?label=Following&color=ffc0cb&style=for-the-badge" alt="Following" />
 </p>
 
 
 ## Connect with me:
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/douae-rohand-72051b345" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
-    </a>
-    <a href="mailto:douaerohand18@gmail.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/douae-rohand-72051b345" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=ffb6c1" alt="LinkedIn" />
+  </a>
+  <a href="mailto:douaerohand18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffc0cb" alt="Gmail" />
+  </a>
+  <a href="https://github.com/douae-rohand" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=ff69b4" alt="GitHub" />
+  </a>
 </p>
-
-
 
 
 ## Languages and Tools:
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cisco_logo.svg" alt="Cisco Packet Tracer" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/Flex-FF6F00?style=for-the-badge&logo=gnu&logoColor=white" alt="Flex" />
-    <img src="https://img.shields.io/badge/Bison-8A1538?style=for-the-badge&logo=gnu&logoColor=white" alt="Bison" />
-    <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" alt="UML" /> 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=ffb6c1" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=ffc0cb" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ffb6c1" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ffc0cb" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffb6c1" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=ffc0cb" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=ffb6c1" alt="PHP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ffc0cb" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=ffb6c1" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ffc0cb" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ffb6c1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white&color=ffc0cb" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Flex-FF6F00?style=for-the-badge&logo=gnu&logoColor=white&color=ffb6c1" alt="Flex" />
+  <img src="https://img.shields.io/badge/Bison-8A1538?style=for-the-badge&logo=gnu&logoColor=white&color=ffc0cb" alt="Bison" />
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white&color=ffb6c1" alt="UML" /> 
 </p>
-
 
 
 ## GitHub Stats:
@@ -68,9 +67,15 @@
 </p>
 
 
-
 ## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=douae-rohand&theme=dracula&no-frame=true&margin-w=15" />
 </p>
+
+---
+<p align="center">
+  If you found my profile interesting, don't forget to leave a star!<br/>
+  Thank you for visiting my profile!
+</p>
+
