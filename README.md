@@ -84,7 +84,7 @@ I care about understanding how things work, not just making them run. If somethi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=douae-rohand&theme=dracula&cache_id=20260122" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=douae-rohand&theme=dracula" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
