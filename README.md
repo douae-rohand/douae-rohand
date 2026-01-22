@@ -2,9 +2,7 @@
   <img src="./assets/header_transparent.png" width="100%" alt="Welcome to my github" />
 </div>
 
-<p align="center"><b><font size="7">Hi, I am Douae Rohand</font></b></p>
-
-<hr style="height: 3px; background: linear-gradient(90deg, transparent, #ad8df8ff, transparent); border: none; width: 80%; margin: 40px auto;">
+<h1 align="center">Hi, I am Douae Rohand</h1>
 
 ## About Me
 
