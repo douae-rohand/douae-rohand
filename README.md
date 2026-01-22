@@ -2,7 +2,7 @@
   <img src="./assets/header_transparent.png" width="100%" alt="Welcome to my github" />
 </div>
 
-<p align="center"><b><font size="6">Hi, I am Douae Rohand</font></b></p>
+<p align="center"><b><font size="7">Hi, I am Douae Rohand</font></b></p>
 
 <hr style="height: 3px; background: linear-gradient(90deg, transparent, #ad8df8ff, transparent); border: none; width: 80%; margin: 40px auto;">
 
@@ -14,8 +14,8 @@ I'm currently a **computer science engineering student** at the **National Schoo
 
 I’ve built real projects, including:
 - **Academic projects** involving parsers, and system modeling
-- Web applications (full-stack projects, APIs, and deployment)
-- Windows Forms desktop applications with user interfaces and functional logic
+- **Web applications** (full-stack projects, APIs, and deployment)
+- **Windows Forms desktop applications** with user interfaces and functional logic
 - **Dockerized applications** designed for real-world deployment
 - **Multiplayer and solo Java games** with clear separation between UI and game logic
 
@@ -34,8 +34,6 @@ I care about understanding how things work, not just making them run. If somethi
   <a href="https://github.com/douae-rohand" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ## Technical Stack
@@ -45,6 +43,7 @@ I care about understanding how things work, not just making them run. If somethi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
@@ -119,11 +118,8 @@ I care about understanding how things work, not just making them run. If somethi
 <hr style="height: 3px; background: linear-gradient(90deg, transparent, #ad8df8ff, transparent); border: none; width: 80%; margin: 40px auto;">
 <div align="center">
   <h3>Thanks for visiting!</h3>
-  <p>
-    If you found my profile interesting, don't forget to leave a ⭐<br/>
-    <em>Let's connect and build something amazing together!</em>
-    <br/>
-    <img src="./assets/Gemini_Generated_Image_2hse992hse992hse-removebg-preview.png" width="200" alt="Footer Image" />
-  </p>
+  If you found my profile interesting, don't forget to leave a ⭐<br/>
+  <em>Let's connect and build something amazing together!</em><br/>
+  <img src="./assets/Gemini_Generated_Image_2hse992hse992hse-removebg-preview.png" width="200" alt="Footer Image" />
 </div>
 
