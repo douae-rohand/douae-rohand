@@ -2,7 +2,7 @@
   <img src="./assets/header_transparent.png" width="100%" alt="Welcome to my github" />
 </div>
 
-<p align="center"><b><font size="40">Hi, I am Douae Rohand</font></b></p>
+<p align="center"><b><font size="7">Hi, I am Douae Rohand</font></b></p>
 
 <hr style="height: 3px; background: linear-gradient(90deg, transparent, #ad8df8ff, transparent); border: none; width: 80%; margin: 40px auto;">
 
@@ -86,7 +86,7 @@ I care about understanding how things work, not just making them run. If somethi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=douae-rohand&theme=dracula" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=douae-rohand&theme=dracula&cache_id=20260122" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ I care about understanding how things work, not just making them run. If somethi
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douae-rohand&theme=dracula&no-frame=false&row=1&column=7" />
+  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=douae-rohand&theme=dracula&no-frame=false&row=1&column=7" />
 </p>
 
 ## Profile Statistics
