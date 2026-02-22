@@ -37,50 +37,67 @@ I care about understanding how things work, not just making them run. If somethi
 ## Technical Stack
 
 <p align="left">
-  <b>Programming Languages</b><br/>
+  <b>Langages de Programmation</b><br/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
 </p>
 
 <p align="left">
   <b>Frameworks</b><br/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
 </p>
 
 <p align="left">
-  <b>DevOps & Infrastructure</b><br/>
+  <b>Bases de Données</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+</p>
+
+<p align="left">
+  <b>Cloud</b><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+</p>
+
+<p align="left">
+  <b>DevOps & Outils</b><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p align="left">
-  <b>Networking</b><br/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/VLANs-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Subnetting-FF6F00?style=for-the-badge" />
+  <b>Système d’exploitation</b><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p align="left">
-  <b>Databases</b><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <b>Gestion de projet</b><br/>
+  <img src="https://img.shields.io/badge/Méthodes%20Agiles%20(Scrum)-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Méthodes Agiles (Scrum)" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+<p align="left">
+  <b>Conception et modélisation</b><br/>
+  <img src="https://img.shields.io/badge/UML-100000?style=for-the-badge" alt="UML" />
+  <img src="https://img.shields.io/badge/MCD%20/%20MLD-100000?style=for-the-badge" alt="MCD/MLD" />
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douae-rohand&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=douae-rohand&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -88,9 +105,8 @@ I care about understanding how things work, not just making them run. If somethi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douae-rohand&layout=compact&theme=dracula" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=douae-rohand&layout=compact&theme=dracula" alt="Top languages" />
 </p>
-
 
 ## GitHub Activity Graph
 
@@ -108,7 +124,7 @@ I care about understanding how things work, not just making them run. If somethi
 ## Profile Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0-pink?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=douae-rohand&style=for-the-badge&color=yellow&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/douae-rohand?label=Followers&color=B4F8C8&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/douae-rohand?style=for-the-badge&color=D147A3" alt="stars" />
 </p>
