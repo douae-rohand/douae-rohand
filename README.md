@@ -31,7 +31,7 @@ Looking for an **end-of-studies internship (PFE) starting February 2027**, where
 ## Technical stack
 ## Technical stack
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Languages</h3>
