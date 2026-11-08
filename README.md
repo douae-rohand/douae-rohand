@@ -29,49 +29,54 @@ Looking for an **end-of-studies internship (PFE) starting February 2027**, where
 </p>
 
 ## Technical stack
-## Technical stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Languages</h3>
       <i>The instruments I play.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /><br/><br/>
-      <sub>Java · Python · C# · PHP · JavaScript</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /><br/><br/>
+      <sub>Java · Python · C# · PHP · JavaScript</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
     <td width="50%" valign="top">
       <h3>Frontend</h3>
       <i>What people see and touch.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" title="Flutter" /><br/><br/>
-      <sub>React · Vue.js · Tailwind CSS · Bootstrap · Flutter</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" title="Flutter" /><br/><br/>
+      <sub>React · Vue.js · Tailwind CSS · Bootstrap · Flutter</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Backend</h3>
       <i>The rhythm section underneath.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" title="Laravel" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET" title="ASP.NET" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Kafka" title="Kafka" /><br/><br/>
-      <sub>Spring Boot · FastAPI · Laravel · ASP.NET · Kafka</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="ASP.NET" title="ASP.NET" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" /><br/><br/>
+      <sub>Spring Boot · FastAPI · Laravel · ASP.NET · Kafka</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
     <td width="50%" valign="top">
       <h3>Databases</h3>
       <i>Where every note is remembered.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" title="Oracle" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL Server" title="SQL Server" /><br/><br/>
-      <sub>PostgreSQL · Oracle · MySQL · SQL Server</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" title="Oracle" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" title="SQL Server" /><br/><br/>
+      <sub>PostgreSQL · Oracle · MySQL · SQL Server</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>DevOps &amp; Tools</h3>
       <i>The conductor keeping everything in time.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" width="36" height="36" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana" title="Grafana" /><br/><br/>
-      <sub>Docker · GitHub Actions · Git · Linux · Prometheus · Grafana</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" title="Grafana" /><br/><br/>
+      <sub>Docker · GitHub Actions · Git · Linux · Prometheus · Grafana</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
     <td width="50%" valign="top">
       <h3>AI &amp; Data</h3>
       <i>The soloist that listens and adapts.</i><br/><br/>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" title="pandas" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/streamlit/streamlit-original.svg" width="36" height="36" alt="Streamlit" title="Streamlit" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/n8n/n8n-original.svg" width="36" height="36" alt="n8n" title="n8n" /><br/><br/>
-      <sub>scikit-learn · pandas · Streamlit · n8n</sub>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" title="pandas" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit" title="Streamlit" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/n8n/n8n-original.svg" width="40" height="40" alt="n8n" title="n8n" /><br/><br/>
+      <sub>scikit-learn · pandas · Streamlit · n8n</sub><br/>
+      <img src="./assets/spacer.svg" width="420" height="1" alt="" />
     </td>
   </tr>
 </table>
