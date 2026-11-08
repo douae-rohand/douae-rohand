@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://douae-portfolio-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-douae--portfolio--opal.vercel.app-9B7FD1?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/douae-rohand-72051b345"><img src="https://img.shields.io/badge/LinkedIn-Douae_Rohand-2B2433?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:douaerohand@gmail.com"><img src="https://img.shields.io/badge/Email-douaerohand%40gmail.com-CDB8E8?style=flat-square&labelColor=2B2433" alt="Email" /></a>
+  <a href="https://douae-portfolio-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-9B7FD1?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/douae-rohand-72051b345"><img src="https://img.shields.io/badge/LinkedIn-Connect-2B2433?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:douaerohand@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-CDB8E8?style=flat-square&labelColor=2B2433" alt="Email" /></a>
 </p>
 
 ## About me
@@ -49,6 +49,10 @@ Looking for an **end-of-studies internship (PFE) starting February 2027**, where
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=douae-rohand&background=F5F0E8&border=F5F0E8&stroke=9B7FD1&ring=CDB8E8&fire=9B7FD1&currStreakNum=2B2433&currStreakLabel=9B7FD1&sideNums=2B2433&sideLabels=9B7FD1&dates=2B2433" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douae-rohand/douae-rohand/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/douae-rohand/douae-rohand/output/github-snake.svg" width="100%" alt="Contribution graph animated as a snake" />
@@ -59,7 +63,7 @@ Looking for an **end-of-studies internship (PFE) starting February 2027**, where
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douae-rohand&style=flat-square&color=9B7FD1&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/douae-rohand?label=Followers&color=CDB8E8&style=flat-square&labelColor=2B2433" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/douae-rohand?style=flat-square&color=CDB8E8&labelColor=2B2433" alt="Followers" />
   <img src="https://img.shields.io/github/stars/douae-rohand?style=flat-square&color=7E5FB8&labelColor=2B2433" alt="stars" />
 </p>
 
