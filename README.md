@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.webp" width="100%" alt="Douae Rohand, future computer engineer, waving next to the words Full-Stack, AI & Machine Learning, DevOps" />
 </div>
-
+<br><br>
 <p align="center">
   <a href="https://douae-portfolio-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-9B7FD1" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/douae-rohand-72051b345"><img src="https://img.shields.io/badge/LinkedIn-Douae_Rohand-2B2433" alt="LinkedIn" /></a>
@@ -30,55 +30,35 @@ Looking for an **end-of-studies internship (PFE) starting February 2027**, where
 
 ## Technical stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br/><sub>Java</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br/><sub>C#</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br/><sub>PHP</sub></td>
-    <td align="center" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" width="40" height="40" alt="React" /><br/><sub>React</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /><br/><sub>Vue.js</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" /><br/><sub>Tailwind</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /><br/><sub>Bootstrap</sub></td>
-    <td align="center" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /><br/><sub>Flutter</sub></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /><br/><sub>FastAPI</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /><br/><sub>Laravel</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="ASP.NET" /><br/><sub>ASP.NET</sub></td>
-    <td align="center" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" /><br/><sub>Kafka</sub></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" /><br/><sub>Oracle</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br/><sub>MySQL</sub></td>
-    <td align="center" colspan="3"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" /><br/><sub>SQL Server</sub></td>
-  </tr>
-  <tr>
-    <td><b>DevOps &amp; Tools</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br/><sub>Docker</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/><sub>Linux</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /><br/><sub>Prometheus</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /><br/><sub>Grafana</sub></td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; Data</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" /><br/><sub>scikit-learn</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" /><br/><sub>pandas</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit" /><br/><sub>Streamlit</sub></td>
-    <td align="center" colspan="3"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/n8n/n8n-original.svg" width="40" height="40" alt="n8n" /><br/><sub>n8n</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" alt="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" width="40" height="40" title="PHP" alt="PHP" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" width="40" height="40" title="React" alt="React" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vuejs/vuejs-original.svg" width="40" height="40" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter" alt="Flutter" />
+</p>
+
+<p align="center">
+  <b>Backend</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" alt="Spring Boot" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI" alt="FastAPI" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel" alt="Laravel" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="ASP.NET" alt="ASP.NET" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Kafka" alt="Kafka" />
+</p>
+
+<p align="center">
+  <b>Databases</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle" alt="Oracle" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" alt="MySQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" title="SQL Server" alt="SQL Server" />
+</p>
+
+<p align="center">
+  <b>DevOps &amp; Tools</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions" alt="GitHub Actions" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus" alt="Prometheus" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" alt="Grafana" />
+</p>
+
+<p align="center">
+  <b>AI &amp; Data</b><br/><br/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" title="scikit-learn" alt="scikit-learn" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pandas/pandas-original.svg" width="40" height="40" title="pandas" alt="pandas" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/streamlit/streamlit-original.svg" width="40" height="40" title="Streamlit" alt="Streamlit" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/n8n/n8n-original.svg" width="40" height="40" title="n8n" alt="n8n" />
+</p>
 
 ## GitHub activity
 
